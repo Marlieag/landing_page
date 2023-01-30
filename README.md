@@ -12,5 +12,5 @@ I have used images from Unsplash. Below are the names of the photographers.
     3. Photo by engin akyurt on Unsplash and the link to their social media:
     https://unsplash.com/@enginakyurt
     
-    4. Photo by Rune Enstad on Unsplash
+    4. Photo by Rune Enstad on Unsplash and the link to their social media:
     https://unsplash.com/@runejohs
