@@ -17,6 +17,10 @@ body{
     font-size: 24px;
     font-weight: bold;
 }
+ul{
+    list-style: none;
+    
+}
 ul.right-links {
     display: flex; 
     flex-grow: 0.5;
@@ -24,7 +28,7 @@ ul.right-links {
     gap: 20px;
     padding: 0;
     margin:0;
-    list-style: none;
+    
     align-items: center;
 }
 h1{
@@ -54,4 +58,17 @@ button{
     padding: 60px 150px;
     display: flex;
     align-items: center;
+}
+
+h2{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
+.services{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
 }
