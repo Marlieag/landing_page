@@ -84,3 +84,22 @@ h2{
     border-radius: 8px;
     padding: 60px 25px;
 }
+
+.quote {
+    background-color:#ffcbcb ;
+    padding: 120px 250px;
+}
+
+h3 {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: center;
+}
+
+.signoff{
+    font-size: 18px;
+    font-weight: 600;
+    text-align: right;
+}
