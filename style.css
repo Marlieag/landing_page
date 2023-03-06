@@ -103,3 +103,40 @@ h3 {
     font-weight: 600;
     text-align: right;
 }
+
+.bottom-page {
+    background-color: #ffb5b5;
+    display: flex;
+    justify-content: space-around;
+    margin: 80px 120px;
+    padding: 40px 0px;
+    border-radius: 5px;
+}
+h4{
+    font-size: 24px;
+    margin: 0px;
+}
+.bottom-text{
+    margin: 0px;
+}
+.button-click{
+    display: flex;
+    align-items: center;
+}
+
+footer{
+    background-color: #1f2937;
+    text-align: center;
+    color: #E5E7EB;
+    padding: 20px 0px;
+}
+
+.codeby,
+.source{
+    margin:0px;
+}
+
+a{
+    color: #E5E7EB;
+    text-decoration: none; 
+}
